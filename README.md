@@ -6,16 +6,11 @@ BTC (Bitcoin) Watcher in Python with curses.
 - Audio sound and email sending  on reaching high or low prices.
 - Customizable refresh rate
 
-Features:
-- Settings for high and low prices watchlist.
-- Audio sound and email sending  on reaching high or low prices.
-- Customizable refresh rate
-
 ## Installation
 pip3 install -r requirements.txt
 
 ## Configurations
-config.txt
+see config.txt
 
 ## Run
 python3 btc_watcher.py
