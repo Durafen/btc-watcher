@@ -1,0 +1,15 @@
+[tracker]
+BITCOIN_PRICE_LOW_THRESHOLD = 30000
+BITCOIN_PRICE_HIGH_THRESHOLD = 35000
+
+[smtp]
+IS_SMTP_ENABLED=0
+FROM_EMAIL = @gmail.com
+TO_EMAIL =  @gmail.com
+
+[system]
+TIMER_SECONDS = 30*60
+SOUND = 1
+
+[debug]
+DEBUG=0
