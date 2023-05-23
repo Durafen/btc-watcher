@@ -7,7 +7,7 @@ beepy == 1.0.7
 keyring == 21.8.0
 
 # BTC-Watcher/btc_watcher.py: 6
-requests == 2.25.0
+requests == 2.31.0
 
 
 
